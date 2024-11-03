@@ -1,0 +1,11 @@
+torch
+torchvision
+gensim
+nltk
+scikit-learn
+tqdm
+numpy
+pandas
+matplotlib
+DataLoader
+datasets
